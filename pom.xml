@@ -12,7 +12,7 @@
     <artifactId>boot-docker-demo</artifactId>
     <version>1.0.0</version>
     <name>boot-docker-demo</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Sample application to demonstrate how to docker with spring boot.</description>
 
     <properties>
         <java.version>1.8</java.version>
